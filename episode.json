@@ -1,0 +1,842 @@
+{
+    "type": 2, //MOVIE: 1, EPISODE: 2, SHOW: 3
+    "contents": [
+        {
+            "serie": {
+                "hashKey": "d5c999d2f0ed34dcbc6a2835d7ef0ebff4471768",
+                "title": "Brazilian Storm",
+                "originalTitle": "Brazilian Storm",
+                "description": "Acompanhe jovens expoentes do surfe brasileiro como Miguel Pupo, Filipe Toledo e Gabriel Medina e o seu dia-a-dia nas competições pelo mundo.",
+                "shortDescription": "",
+                "status": 1, //CANCELLED, ONGOING, FINISHED
+                "enabled": true,
+                "releaseYear": 2015,
+                "images": [
+                    {
+                        "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                        "width": 0,
+                        "height": 0,
+                        "weight": 7,
+                        "type": 1 //BACKGROUND, LOGO, COVER, PORTRAIT, COVER_MINI
+                    },
+                    {
+                        "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                        "width": 0,
+                        "height": 0,
+                        "weight": 7,
+                        "type": 2
+                    }
+                ],
+                "videos": [
+                    {
+                        "type": 1, // VIDEOTYPE.MOVIE, VIDEOTYPE.TRAILER
+                        "url": "https://www.youtube.com/watch?v=pZcCyQDliTs"
+                    },
+                    {
+                        "type": 2,
+                        "url": "https://globosatplay.globo.com/canal-off/v/2325721/"
+                    }
+                ],
+                "basedOn": [
+                    "Livro do Medina"
+                ],
+                "synonyms": [
+                    "serie",
+                    "praia"
+                ],
+                "keywords": [
+                    "Brasilian",
+                    "Storm"
+                ],
+                "availableskyseasoncount": 6,
+                "availableChannels": [
+                    {
+                        "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f45c6b",
+                        "weight": 3, //EXTRA_LIGHT, SUPER_LIGHT, LIGHT, MEDIUM, HEAVY, SUPER_HEAVY, EXTRA_HEAVY
+                        "adult": false,
+                        "number": 442,
+                        "title": "MULTISHOW HD",
+                        "shortTitle": "MSW HD",
+                        "keywords": [
+                            "SHOW",
+                            "HD",
+                            "RECEITAS"
+                        ],
+                        "deeplinks": [
+                            {
+                                "type": 1,
+                                "url": "http://www.multishow.com.br"
+                            },
+                            {
+                                "type": 2,
+                                "url": "http://www.multishow.android.com.br"
+                            }
+                        ],
+                        "network": {
+                            "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                            "liferayId": 12345,
+                            "title": "Telecine",
+                            "description": "Telecine e mto bom",
+                            "images": [
+                                {
+                                    "url": "http://sky.com.br/1.jpg",
+                                    "width": 0,
+                                    "height": 0,
+                                    "weight": 7,
+                                    "type": 1
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "weight": 3, 
+                        "adult": false,
+                        "number": 435,
+                        "title": "OFF HD",
+                        "shortTitle": "OFF HD",
+                        "keywords": [
+                            "SHOW",
+                            "HD",
+                            "RECEITAS"
+                        ],
+                        "deeplinks": [
+                            {
+                                "type": 1, 
+                                "url": "http://www.multishow.com.br"
+                            },
+                            {
+                                "type": 2,
+                                "url": "http://www.multishow.android.com.br"
+                            }
+                        ],
+                        "network": {
+                            "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                            "liferayId": 12345,
+                            "title": "Telecine",
+                            "description": "Telecine e mto bom",
+                            "images": [
+                                {
+                                    "url": "http://sky.com.br/1.jpg",
+                                    "width": 0,
+                                    "height": 0,
+                                    "weight": 7,
+                                    "type": 1
+                                }
+                            ]
+                        },
+                        "hashKey": "ac64c71216f293c8f0a3244d1696281eeec50a45"
+                    }
+                ],
+                "season": [
+                    {
+                        "title": "Brazilian Storm",
+                        "shortDescription": "Brasilian",
+                        "description": "brasilian is brasilian",
+                        "hashKey": "8e30a55ad765f4054ff57d465077d16450de3f95",
+                        "releaseYear": 2016,
+                        "number": 0,
+                        "images": [
+                            {
+                                "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "weight": 7,
+                                "type": 1 
+                            },
+                            {
+                                "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "weight": 7,
+                                "type": 2
+                            }
+                        ],
+                        "seasonNumber": 1,
+                        "availableChannels": [
+                            {
+                                "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f45c6b",
+                                "weight": 3,
+                                "adult": false,
+                                "number": 442,
+                                "title": "MULTISHOW HD",
+                                "shortTitle": "MSW HD",
+                                "keywords": [
+                                    "SHOW",
+                                    "HD",
+                                    "RECEITAS"
+                                ],
+                                "deeplinks": [
+                                    {
+                                        "type": 1,
+                                        "url": "http://www.multishow.com.br"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "http://www.multishow.android.com.br"
+                                    }
+                                ],
+                                "network": {
+                                    "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                                    "liferayId": 12345,
+                                    "title": "Telecine",
+                                    "description": "Telecine e mto bom",
+                                    "images": [
+                                        {
+                                            "url": "http://sky.com.br/1.jpg",
+                                            "width": 0,
+                                            "height": 0,
+                                            "weight": 7,
+                                            "type": 1
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "episodes": [
+                            {
+                                "hashKey": "f2378b17ed562359a3ce53115d099eb2319b3408",
+                                "programId": "38453",
+                                "SkyOnDemandContentId": 123,
+                                "title": "J Bay - África Do Sul",
+                                "originalTitle": "Africa Do Sul",
+                                "description": "J Bay abrigando mais uma etapa do Circuito Mundial e as condições não estavam muito boas para o início do campeonato. Além disso, os brasileiros acabaram não se dando muito bem. Em um dia de Day off, Guigui aproveita para pular em um dos maiores bung jumps do mundo.",
+                                "shortDescription": "J Bay abrigando mais um etapa do Circuito",
+                                "episodeNumber": 1,
+                                "rating": "L",
+                                "releaseYear": 2013,
+                                "basedOn": [
+                                    "Livro do Medina"
+                                ],
+                                "synonyms": [
+                                    "episdo",
+                                    "1"
+                                ],
+                                "audio": [
+                                    {
+                                        "description": "Dublado",
+                                        "idioma": "Português"
+                                    },
+                                    {
+                                        "description": "Original",
+                                        "idioma": "Inglês"
+                                    }
+                                ],
+                                "cast": [
+                                    {
+                                        "person": {
+                                            "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                            "enabled": true,
+                                            "firstName": "Cameron",
+                                            "lastName": "Diaz",
+                                            "genre": 1, //MALE, FEMALE, UNKNOW
+                                            "birthDate": "2017-09-06T19:49:52.523Z",
+                                            "deathDate": "2017-09-06T19:49:52.523Z",
+                                            "country": "Estados Unidos",
+                                            "awards": [
+                                                "Oscar 2016",
+                                                "Oscar 2017"
+                                            ],
+                                            "images": [
+                                                {
+                                                    "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 1 
+                                                },
+                                                {
+                                                    "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 2 
+                                                }
+                                            ],
+                                            "description": "Cameron Diaz e demais e muito bonita",
+                                            "shortDescription": "Cameron Diaz e demais",
+                                            "keywords": [
+                                                "Cameron",
+                                                "Diaz"
+                                            ]
+                                        },
+                                        "kind": 1, //ATOR: 1, ATRIZ: 2, DIRETOR: 3, CHARACTER: 4,
+                                        "characterName": "Chaves",
+                                        "creditType": "credit",
+                                        "enabled": true
+                                    },
+                                    {
+                                        "person": {
+                                            "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                            "enabled": true,
+                                            "firstName": "Angelina",
+                                            "lastName": "Jolie",
+                                            "genre": 1,
+                                            "birthDate": "2017-09-06T19:49:52.523Z",
+                                            "deathDate": "2017-09-06T19:49:52.523Z",
+                                            "country": "Estados Unidos",
+                                            "awards": [
+                                                "Oscar 2018",
+                                                "Oscar 2015"
+                                            ],
+                                            "images": [
+                                                {
+                                                    "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 1
+                                                },
+                                                {
+                                                    "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 2
+                                                }
+                                            ],
+                                            "description": "Angelina Jolie e demais e muito bonita",
+                                            "shortDescription": "Angelina Jolie e demais",
+                                            "keywords": [
+                                                "Angelina",
+                                                "Jolie"
+                                            ]
+                                        },
+                                        "kind": 1,
+                                        "characterName": "Chaves",
+                                        "creditType": "credit",
+                                        "enabled": true
+                                    }
+                                ],
+                                "dateStart": "2017-09-06T19:49:52.523Z",
+                                "dateEnd": "2017-09-06T19:49:52.523Z",
+                                "ratingDescription": [
+                                    "conteudo legal"
+                                ],
+                                "genres": [
+                                    {
+                                        "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                        "enabled" : true,
+                                        "relevance": 10,
+                                        "title": "Acao",
+                                        "images": [
+                                            {
+                                                "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 1
+                                            },
+                                            {
+                                                "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 2
+                                            }
+                                        ], 
+                                        "description": "Acao e muito bom",
+                                        "shortDescription": "acao e top demais"
+                                    },
+                                    {
+                                        "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                        "enabled" : true,
+                                        "relevance": 10,
+                                        "title": "Terror",
+                                        "images": [
+                                            {
+                                                "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 1
+                                            },
+                                            {
+                                                "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 2
+                                            }
+                                        ],
+                                        "description": "Acao e muito bom",
+                                        "shortDescription": "acao e top demais"
+                                    }
+                                ],
+                                "availableChannels": [
+                                    {
+                                        "weight": 3,
+                                        "adult": false,
+                                        "number": 442,
+                                        "title": "MULTISHOW HD",
+                                        "shortTitle": "MSW HD",
+                                        "keywords": [
+                                            "SHOW",
+                                            "HD",
+                                            "RECEITAS"
+                                        ],
+                                        "deeplinks": [
+                                            {
+                                                "type": 1,
+                                                "url": "http://www.multishow.com.br"
+                                            },
+                                            {
+                                                "type": 2,
+                                                "url": "http://www.multishow.android.com.br"
+                                            }
+                                        ],
+                                        "network": {
+                                            "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                                            "liferayId": 12345,
+                                            "title": "Telecine",
+                                            "description": "Telecine e mto bom",
+                                            "images": [
+                                                {
+                                                    "url": "http://sky.com.br/1.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 1
+                                                }
+                                            ]
+                                        },
+                                        "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f45c6b"
+                                    }
+                                ],
+                                "launch": true,
+                                "guideMainCategory": "Esportes",
+                                "deeplinks": [
+                                    {
+                                        "type": 1,
+                                        "url": "http://www.multishow.com.br"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "http://www.multishow.android.com.br"
+                                    }
+                                ],
+                                "enabled": false,
+                                "franchise": "franchise",
+                                "universe": "universe",
+                                "keywords": [
+                                    "Canal Off",
+                                    "Brazilian Storm"
+                                ],
+                                "conditionContentVOD": [ // CVOD, TVOD, SVOD, FVOD
+                                    {
+                                        "type": 1,
+                                        "dateStart": "2014-06-28T00:00:00Z",
+                                        "dateEnd": "2019-06-15T00:00:00Z"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "dateStart": "2014-06-28T00:00:00Z",
+                                        "dateEnd": "2019-06-15T00:00:00Z"
+                                    }
+                                ],
+                                "images": [
+                                    {
+                                        "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                        "width": 0,
+                                        "height": 0,
+                                        "weight": 7,
+                                        "type": 1
+                                    },
+                                    {
+                                        "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                        "width": 0,
+                                        "height": 0,
+                                        "weight": 7,
+                                        "type": 2
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "type": 1, // VIDEOTYPE.MOVIE, VIDEOTYPE.TRAILER
+                                        "url": "https://www.youtube.com/watch?v=pZcCyQDliTs"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "https://globosatplay.globo.com/canal-off/v/2325721/"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Brazilian Storm",
+                        "shortDescription": "Brasilian",
+                        "description": "brasilian is brasilian",
+                        "hashKey": "8e30a55ad765f4054ff57d465077d16450de3f95",
+                        "releaseYear": 2016,
+                        "number": 0,
+                        "images": [
+                            {
+                                "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "weight": 7,
+                                "type": 1
+                            },
+                            {
+                                "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                "width": 0,
+                                "height": 0,
+                                "weight": 7,
+                                "type": 2
+                            }
+                        ],
+                        "seasonNumber": 1,
+                        "availableChannels": [
+                            {
+                                "weight": 3,
+                                "adult": false,
+                                "number": 442,
+                                "title": "MULTISHOW HD",
+                                "shortTitle": "MSW HD",
+                                "keywords": [
+                                    "SHOW",
+                                    "HD",
+                                    "RECEITAS"
+                                ],
+                                "deeplinks": [
+                                    {
+                                        "type": 1,
+                                        "url": "http://www.multishow.com.br"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "http://www.multishow.android.com.br"
+                                    }
+                                ],
+                                "network": {
+                                    "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                                    "liferayId": 12345,
+                                    "title": "Telecine",
+                                    "description": "Telecine e mto bom",
+                                    "images": [
+                                        {
+                                            "url": "http://sky.com.br/1.jpg",
+                                            "width": 0,
+                                            "height": 0,
+                                            "weight": 7,
+                                            "type": 1
+                                        }
+                                    ]
+                                },
+                                "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f45c6b"
+                            },
+                            {
+                                "weight": 3,
+                                "adult": false,
+                                "number": 435,
+                                "title": "OFF HD",
+                                "shortTitle": "OFF HD",
+                                "keywords": [
+                                    "SHOW",
+                                    "HD",
+                                    "RECEITAS"
+                                ],
+                                "deeplinks": [
+                                    {
+                                        "type": 1,
+                                        "url": "http://www.multishow.com.br"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "http://www.multishow.android.com.br"
+                                    }
+                                ],
+                                "network": {
+                                    "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                                    "liferayId": 12345,
+                                    "title": "Telecine",
+                                    "description": "Telecine e mto bom",
+                                    "images": [
+                                        {
+                                            "url": "http://sky.com.br/1.jpg",
+                                            "width": 0,
+                                            "height": 0,
+                                            "weight": 7,
+                                            "type": 1
+                                        }
+                                    ]
+                                },
+                                "hashKey": "ac64c71216f293c8f0a3244d1696281eeec50a45"
+                            }
+                        ],
+                        "episodes": [
+                            {
+                                "hashKey": "f2378b17ed562359a3ce53115d099eb2319b3408",
+                                "programId": "38453",
+                                "SkyOnDemandContentId": 123,
+                                "title": "J Bay - África Do Sul",
+                                "originalTitle": "Africa Do Sul",
+                                "description": "J Bay abrigando mais uma etapa do Circuito Mundial e as condições não estavam muito boas para o início do campeonato. Além disso, os brasileiros acabaram não se dando muito bem. Em um dia de Day off, Guigui aproveita para pular em um dos maiores bung jumps do mundo.",
+                                "shortDescription": "J Bay abrigando mais um etapa do Circuito",
+                                "episodeNumber": 1,
+                                "rating": "L",
+                                "releaseYear": 2013,
+                                "basedOn": [
+                                    "Livro do Medina"
+                                ],
+                                "synonyms": [
+                                    "episdo",
+                                    "1"
+                                ],
+                                "audio": [
+                                    {
+                                        "description": "Dublado",
+                                        "idioma": "Português"
+                                    },
+                                    {
+                                        "description": "Original",
+                                        "idioma": "Inglês"
+                                    }
+                                ],
+                                "cast": [
+                                    {
+                                        "person": {
+                                            "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                            "enabled": true,
+                                            "firstName": "Cameron",
+                                            "lastName": "Diaz",
+                                            "genre": 1,
+                                            "birthDate": "2017-09-06T19:49:52.523Z",
+                                            "deathDate": "2017-09-06T19:49:52.523Z",
+                                            "country": "Estados Unidos",
+                                            "awards": [
+                                                "Oscar 2016",
+                                                "Oscar 2017"
+                                            ],
+                                            "images": [
+                                                {
+                                                    "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 1
+                                                },
+                                                {
+                                                    "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 2
+                                                }
+                                            ],
+                                            "description": "Cameron Diaz e demais e muito bonita",
+                                            "shortDescription": "Cameron Diaz e demais",
+                                            "keywords": [
+                                                "Cameron",
+                                                "Diaz"
+                                            ]
+                                        },
+                                        "kind": 1,
+                                        "characterName": "Chaves",
+                                        "creditType": "credit",
+                                        "enabled": true
+                                    },
+                                    {
+                                        "person": {
+                                            "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                            "enabled": true,
+                                            "firstName": "Angelina",
+                                            "lastName": "Jolie",
+                                            "genre": 1,
+                                            "birthDate": "2017-09-06T19:49:52.523Z",
+                                            "deathDate": "2017-09-06T19:49:52.523Z",
+                                            "country": "Estados Unidos",
+                                            "awards": [
+                                                "Oscar 2018",
+                                                "Oscar 2015"
+                                            ],
+                                            "images": [
+                                                {
+                                                    "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 1
+                                                },
+                                                {
+                                                    "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 2
+                                                }
+                                            ],
+                                            "description": "Angelina Jolie e demais e muito bonita",
+                                            "shortDescription": "Angelina Jolie e demais",
+                                            "keywords": [
+                                                "Angelina",
+                                                "Jolie"
+                                            ]
+                                        },
+                                        "kind": 1,
+                                        "characterName": "Chaves",
+                                        "creditType": "credit",
+                                        "enabled": true
+                                    }
+                                ],
+                                "dateStart": "2017-09-06T19:49:52.523Z",
+                                "dateEnd": "2017-09-06T19:49:52.523Z",
+                                "ratingDescription": [
+                                    "conteudo legal"
+                                ],
+                                "genres": [
+                                    {
+                                        "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                        "enabled" : true,
+                                        "relevance": 10,
+                                        "title": "Acao",
+                                        "images": [
+                                            {
+                                                "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 1
+                                            },
+                                            {
+                                                "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 2
+                                            }
+                                        ],
+                                        "description": "Acao e muito bom",
+                                        "shortDescription": "acao e top demais"
+                                    },
+                                    {
+                                        "hashKey":"8e30a55ad765f4054ff57d465077d16450de3f95",
+                                        "enabled" : true,
+                                        "relevance": 10,
+                                        "title": "Terror",
+                                        "images": [
+                                            {
+                                                "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 1
+                                            },
+                                            {
+                                                "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                                "width": 0,
+                                                "height": 0,
+                                                "weight": 7,
+                                                "type": 2
+                                            }
+                                        ],
+                                        "description": "Acao e muito bom",
+                                        "shortDescription": "acao e top demais"
+                                    }
+                                ],
+                                "availableChannels": [
+                                    {
+                                        "weight": 3,
+                                        "adult": false,
+                                        "number": 442,
+                                        "title": "MULTISHOW HD",
+                                        "shortTitle": "MSW HD",
+                                        "keywords": [
+                                            "SHOW",
+                                            "HD",
+                                            "RECEITAS"
+                                        ],
+                                        "deeplinks": [
+                                            {
+                                                "type": 1,
+                                                "url": "http://www.multishow.com.br"
+                                            },
+                                            {
+                                                "type": 2,
+                                                "url": "http://www.multishow.android.com.br"
+                                            }
+                                        ],
+                                        "network": {
+                                            "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f378493274",
+                                            "liferayId": 12345,
+                                            "title": "Telecine",
+                                            "description": "Telecine e mto bom",
+                                            "images": [
+                                                {
+                                                    "url": "http://sky.com.br/1.jpg",
+                                                    "width": 0,
+                                                    "height": 0,
+                                                    "weight": 7,
+                                                    "type": 1
+                                                }
+                                            ]
+                                        },
+                                        "hashKey": "dabc2dda2ca1179d3e5fb85ba98b784c22f45c6b"
+                                    }
+                                ],
+                                "launch": true,
+                                "guideMainCategory": "Esportes",
+                                "deeplinks": [
+                                    {
+                                        "type": 1,
+                                        "url": "http://www.multishow.com.br"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "http://www.multishow.android.com.br"
+                                    }
+                                ],
+                                "enabled": false,
+                                "franchise": "franchise",
+                                "universe": "universe",
+                                "price": 9.90,
+                                "keywords": [
+                                    "Canal Off",
+                                    "Brazilian Storm"
+                                ],
+                                "conditionContentVOD": [ // CVOD, TVOD, SVOD, FVOD
+                                    {
+                                        "type": 1,
+                                        "dateStart": "2014-06-28T00:00:00Z",
+                                        "dateEnd": "2019-06-15T00:00:00Z"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "dateStart": "2014-06-28T00:00:00Z",
+                                        "dateEnd": "2019-06-15T00:00:00Z"
+                                    }
+                                ],
+                                "images": [
+                                    {
+                                        "url": "https://www.surfertoday.com/images/stories/filipetoledo11.jpg",
+                                        "width": 0,
+                                        "height": 0,
+                                        "weight": 7,
+                                        "type": 1
+                                    },
+                                    {
+                                        "url": "https://fotos.areah.com.br/images/fotos/mh_interna_mineirinho-campeao.jpg",
+                                        "width": 0,
+                                        "height": 0,
+                                        "weight": 7,
+                                        "type": 2
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "type": 1,
+                                        "url": "https://www.youtube.com/watch?v=pZcCyQDliTs"
+                                    },
+                                    {
+                                        "type": 2,
+                                        "url": "https://globosatplay.globo.com/canal-off/v/2325721/"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
