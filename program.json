@@ -1,5 +1,5 @@
 {
-    "type": 1, /* MOVIE: 1, EPISODE: 2, SHOW: 3 *\
+    "type": 1, /* MOVIE: 1, EPISODE: 2, SHOW: 3 */
     "contents": [
         {
             "hashKey": "f2378b17ed562359a3ce53115d099eb2319b3408",
